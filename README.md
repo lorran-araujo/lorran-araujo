@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil GitHub! Sou Lorran, um mestrando com paixão pela Matem�
 
 ## Sobre mim
 
-- 🔭 Graduado em Matemática pela Unimontes.
-- ⚡ Mestrando em Modelagem Computacional no LNCC.
-- 🌱 Aprendendo sobre Redes Neurais.
+- 🎓 Graduado em Matemática pela Unimontes.
+- 📚 Mestrando em Modelagem Computacional no LNCC.
+- 💻 Aprendendo sobre Redes Neurais.
 - 📫 Como me encontrar: lorranspbr@gmail.com.
