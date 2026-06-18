@@ -1,6 +1,6 @@
 # Hello! 👋
 
-Welcome to my GitHub profile! I’m Lorran, a PhD student with a passion for Mathematics and Computing. Here you will find projects involving Technology and Mathematics.
+I’m Lorran, a PhD student with a passion for Mathematics and Computing. Here you will find projects involving Technology and Mathematics.
 
 ## About me
 
